@@ -75,4 +75,5 @@ Berikut adalah representasi flowchart dari program tersebut:
 
 Setelah menjalankan program dan memasukkan data mahasiswa, hasil yang akan ditampilkan dalam tabel adalah sebagai berikut:
 
-![image](https://github.com/user-attachments/assets/7edd7c3f-594b-440f-9242-02cf87f9c04f)# praktikum4
+![image](https://github.com/user-attachments/assets/07d45f87-f4a7-46c1-88d9-b085a7293c21)
+
